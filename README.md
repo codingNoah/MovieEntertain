@@ -7,4 +7,4 @@ Section --> 2 , Title --> Movie Entertainment
 5. Yenoh Tessema--------->UGR/5405/13         
 
 
-The reason we choose to use Relational Database is that the schema fixed. They offer flexible query support. Provide a high level of data integrity. They are also well-known. And easier to implement due to our prior understanding.
+The reason we choose to use Relational Database is that the schema is fixed. They offer flexible query support. Provide a high level of data integrity. They are also well-known. And easier to implement due to our prior understanding.
